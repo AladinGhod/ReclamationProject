@@ -1,0 +1,72 @@
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.AssemblyReference.cache
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Accueil.resources
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.InterfaceReclam.resources
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Login.resources
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Properties.Resources.resources
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Reclamation.resources
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.GenerateResource.cache
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.CoreCompileInputs.cache
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe.config
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.pdb
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.exe
+C:\Users\gala147\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.pdb
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe.config
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.pdb
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.AssemblyReference.cache
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Accueil.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.InterfaceReclam.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Login.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Properties.Resources.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Reclamation.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.GenerateResource.cache
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.CoreCompileInputs.cache
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.exe
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.pdb
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.AtelierInter.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.InterCOI.resources
+C:\Users\gala147.ALSICO\Desktop\Source Code\C#\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Form2.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe.config
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.pdb
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Accueil.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.AtelierInter.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Form2.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.InterCOI.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.InterfaceReclam.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Login.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Reclamation.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.exe
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.pdb
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.REC_F.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.CopyComplete
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.REC_ATEL.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.ATL_F.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.COI_F.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.LISTE_COI_F.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.ALL_REC_F.resources
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Administrator\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.AssemblyReference.cache
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe.config
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.exe
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\bin\Debug\GestionReclamation.pdb
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.ALL_REC_F.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.ATL_F.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.COI_F.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Form2.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.LISTE_COI_F.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.Properties.Resources.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.REC_ATEL.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.REC_F.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.GenerateResource.cache
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.CoreCompileInputs.cache
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.csproj.CopyComplete
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.exe
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.pdb
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.SUPERVISOR.resources
+C:\Users\Ala\source\repos\GestionReclamation\GestionReclamation\obj\Debug\GestionReclamation.RECEPTION_F.resources
